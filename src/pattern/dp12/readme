@@ -1,0 +1,4 @@
+Decorator informs and empowers its client.
+Proxy restricts and disempowers its client.
+
+ref: https://stackoverflow.com/questions/18618779/
